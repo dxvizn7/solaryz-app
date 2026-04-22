@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3fffa8a6-f686-4337-aa36-3d81583bc8ed"
+      }
+    },
+    "owner": "solaryz"
   }
 }
